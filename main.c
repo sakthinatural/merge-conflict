@@ -8,7 +8,5 @@ Initial Function()
 
 Initial Security(){}
 
-feature1(){}
-
 feaature2(){}
 }
